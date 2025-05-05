@@ -1,6 +1,6 @@
 # About
 <h1 align="center">Hi 👋, I'm Ganthi shree</h1>
-<h3 align="center">I am an aspiring data analyst currently immersed in my studies, eager to embark on a journey of professional growth and contribute innovative insights to the field.</h3>
+<h3 align="center">I am an aspiring Data Engineer currently immersed in my studies, eager to embark on a journey of professional growth and contribute innovative insights to the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganthishree&label=Profile%20views&color=0e75b6&style=flat" alt="ganthishree" /> </p>
 
